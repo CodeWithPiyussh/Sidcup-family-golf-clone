@@ -9,7 +9,7 @@
 <br>
 
 ## 🎯 Overview
-An immersive frontend clone of SodCup Family Golf's website, featuring stunning animations and smooth transitions. This project showcases the power of GSAP animations in creating engaging user experiences.
+An immersive frontend clone of SidCup Family Golf's website, featuring stunning animations and smooth transitions. This project showcases the power of GSAP animations in creating engaging user experiences.
 
 ## ✨ Key Features
 - 🎬 Dynamic page transitions and scroll animations
